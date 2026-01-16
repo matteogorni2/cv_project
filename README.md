@@ -6,7 +6,7 @@ Welcome to the **Crowd Counting Models Project**, a university project focused o
 
 ## Project Overview
 
-Crowd counting is a computer vision task that estimates the number of people in an image. This project explores multiple state-of-the-art architectures, including **ResNet50**, **VGG16**, **VGG19**, **Xception**, and **CSRNet**, to tackle this problem.
+Crowd counting is a computer vision task that estimates the number of people in an image. This project explores multiple architectures, including **ResNet50**, **VGG16**, **VGG19**, **Xception**, and **CSRNet**, to tackle this problem.
 
 The repository is structured to ensure **scalability**, **modularity**, and **ease of experimentation**.
 
